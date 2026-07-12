@@ -1,0 +1,6 @@
+{
+  "name": "오답노트 및 회독 관리",
+  "description": "개인 학습을 위한 비공개 오답노트 및 회독 관리 서비스. 카메라 촬영, 크롭, AI 폴더/태그 추천, PDF 학습지 생성, 앱 내 시험, 회독 평가(X/△/✓)를 제공합니다.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
